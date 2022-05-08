@@ -1,5 +1,4 @@
-@echo off
-
+@echo  encendido
 set hostspath=%windir%\System32\drivers\etc\hosts
 
 echo #[Halt and Block Mining by RedesZone v.11.11] >> %hostspath%
